@@ -1,0 +1,10 @@
+{
+  "name": "tf-score",
+  "version": "0.0.1",
+  "description": "TF Score Calculator",
+  "main": "TFScore.js",
+  "author": "David Toner",
+  "dependencies": {
+    "async": "~2.6.0"
+  }
+}
